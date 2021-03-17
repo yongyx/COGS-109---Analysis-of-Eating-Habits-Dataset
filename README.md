@@ -13,4 +13,4 @@ __NOTE__:
 - Linear Regression is in file COGS_109_Final_Project_Regression.ipynb.
 - K-means Clustering is in file COGS 109 Final Project (Clustering).ipynb.
 
-***Dataset credits to UCI Machine Learning Repository.
+***Dataset credits to UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition+
