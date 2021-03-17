@@ -10,5 +10,5 @@ Dataset Information:
 
 __NOTE__:
 - Final Report, which is a combination of all datasets, is under COGS_109_-_Final_Project_Report_1.ipynb.
-- Linear Regression is in file COGS_109_Final_Project_Regression.ipynb
-- K-means Clustering is in file 
+- Linear Regression is in file COGS_109_Final_Project_Regression.ipynb.
+- K-means Clustering is in file COGS 109 Final Project (Clustering).ipynb.
